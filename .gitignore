@@ -1,0 +1,7 @@
+# ignores virtual environments
+.venv/
+
+# ignores data and all csv files 
+data/
+*.csv
+
